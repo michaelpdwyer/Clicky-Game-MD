@@ -8,12 +8,12 @@ import ClickPics from '../clickPics';
 // attaches the passed down clickEvent function to each image component
 const Container = props => (
   // loops through
-  <div>
+  <div
     className={
       props.shake
         ? 'container d-flex flex-wrap justify-content-center shake'
         : 'container d-flex flex-wrap justify-content-center'
-    }
+    }>
 
     {props.images.map((a, i) => <ClickPics name={a} key={i} clickEvent={props.clickEvent} />)}
   </div>
