@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Clicky-Game-MD/static/css/main.63e82b54.chunk.css",
+    "main.js": "/Clicky-Game-MD/static/js/main.d23e2d31.chunk.js",
+    "main.js.map": "/Clicky-Game-MD/static/js/main.d23e2d31.chunk.js.map",
+    "runtime~main.js": "/Clicky-Game-MD/static/js/runtime~main.0311a0ef.js",
+    "runtime~main.js.map": "/Clicky-Game-MD/static/js/runtime~main.0311a0ef.js.map",
+    "static/js/2.89306916.chunk.js": "/Clicky-Game-MD/static/js/2.89306916.chunk.js",
+    "static/js/2.89306916.chunk.js.map": "/Clicky-Game-MD/static/js/2.89306916.chunk.js.map",
+    "index.html": "/Clicky-Game-MD/index.html",
+    "precache-manifest.734e5ed4c702d01e516e1fcbafec041e.js": "/Clicky-Game-MD/precache-manifest.734e5ed4c702d01e516e1fcbafec041e.js",
+    "service-worker.js": "/Clicky-Game-MD/service-worker.js",
+    "static/css/main.63e82b54.chunk.css.map": "/Clicky-Game-MD/static/css/main.63e82b54.chunk.css.map",
+    "static/media/apple.png": "/Clicky-Game-MD/static/media/apple.b7495777.png",
+    "static/media/diamond.png": "/Clicky-Game-MD/static/media/diamond.99e0bdc0.png",
+    "static/media/dice.png": "/Clicky-Game-MD/static/media/dice.0a491d03.png",
+    "static/media/feather.png": "/Clicky-Game-MD/static/media/feather.abfaee8b.png",
+    "static/media/fire.png": "/Clicky-Game-MD/static/media/fire.22fd5381.png",
+    "static/media/heart.png": "/Clicky-Game-MD/static/media/heart.c8aa9fe9.png",
+    "static/media/leaves.png": "/Clicky-Game-MD/static/media/leaves.2d6f9c6f.png",
+    "static/media/lips.png": "/Clicky-Game-MD/static/media/lips.69925988.png",
+    "static/media/shamrock.png": "/Clicky-Game-MD/static/media/shamrock.4111c022.png",
+    "static/media/star.png": "/Clicky-Game-MD/static/media/star.19e9fb6b.png",
+    "static/media/sun.png": "/Clicky-Game-MD/static/media/sun.807ac109.png",
+    "static/media/window.png": "/Clicky-Game-MD/static/media/window.47011aa9.png"
+  }
+}
